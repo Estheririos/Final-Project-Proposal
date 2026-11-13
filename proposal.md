@@ -24,7 +24,7 @@ Ideal Outcome:
 - Ideal outcome would to have a complete main menu for a visual novel that will respond to multiple interactions. This could include changing between two set image displays with glitches in-between, responding to movement of the mouse cursor, changing color schemes when display changes, and responding to a mouse click.
 
 Minimal Viable Outcome:
-- Bare essentials would include a display switch between the two images and respond with glitches at the least.
+- Bare essentials would include a display switch between the two images and respond with glitches in random intervals plus color change theme when image switches for the main menu.
 
 ## Milestones
 
